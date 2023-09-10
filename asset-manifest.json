@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.9dcfe383.css",
+    "main.js": "/react-gh-pages/static/js/main.48e26b71.js",
+    "static/media/Airbnb.png": "/react-gh-pages/static/media/Airbnb.72564c9ba3681bb9285f.png",
+    "static/media/Youtube.png": "/react-gh-pages/static/media/Youtube.556762218e639c22e3bf.png",
+    "static/media/MovieApp.png": "/react-gh-pages/static/media/MovieApp.8ac56f3871cb7bef80f9.png",
+    "static/media/Crypto.png": "/react-gh-pages/static/media/Crypto.a93a0f6075cc57ea24c2.png",
+    "static/media/PostOfficepng.png": "/react-gh-pages/static/media/PostOfficepng.c172cc25aaa89ea89a0c.png",
+    "static/media/Auth.png": "/react-gh-pages/static/media/Auth.866567e4c4597c18be82.png",
+    "static/media/image.svg": "/react-gh-pages/static/media/image.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.9dcfe383.css.map": "/react-gh-pages/static/css/main.9dcfe383.css.map",
+    "main.48e26b71.js.map": "/react-gh-pages/static/js/main.48e26b71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dcfe383.css",
+    "static/js/main.48e26b71.js"
+  ]
+}
